@@ -3,4 +3,4 @@ This is an example showing how to implement a Client side to face XSS attacks us
 
 * Username : pramesh
 * Password : pramesh123
-* Make sure to check the remember me Checkbox
+* Make sure to check the Checkbox
